@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dlgh39.github.io/shopify-shipping-compatibility/sitemap.xml
